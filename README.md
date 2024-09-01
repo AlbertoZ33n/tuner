@@ -33,4 +33,4 @@ All samples come from the freesound project (http://www.freesound.org/). In part
 
 No warranty at all. The patch is provided "as-is", without any express or implied warranty. In no event shall the author be held liable for any damages arising for use of this patch.
 
-Tested in purr-data (linux)
+tested in Purr-Data-2.19.3 20230725-rev.e9fca4f8 (linux)
