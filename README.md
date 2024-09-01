@@ -1,7 +1,7 @@
 TUNER - An enveloping sampler with 4 (stereo) wavetable crossfading and two independent panels 
 
 - LIBRARIES: 
-Grid from "Unauthorized" library (Pd Extended it's fine)
+"Unauthorized" library (uses "Grid")
 
 - How to play: 
 on startup the patch loads four+four default samples. Activate the start/stop dsp button
@@ -29,3 +29,4 @@ All samples come from the freesound project (http://www.freesound.org/). In part
 
 - WARRANTY
 
+Tested in purr-data (linux)
