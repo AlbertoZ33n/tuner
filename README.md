@@ -1,9 +1,11 @@
 TUNER - An enveloping sampler with 4 (stereo) wavetable crossfading and two independent panels 
 
 --- LIBRARIES: ---
+
 "Unauthorized" library (uses "Grid")
 
 --- USAGE --- 
+
 on startup the patch loads four+four default samples. Raise the volume slider
 and start moving the "TUNER" control in the center of the patch. This gives
 more weight to each of the four samples. With the control in the middle all samples 
